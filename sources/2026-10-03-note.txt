@@ -1,0 +1,1 @@
+NVIDIA DGX B300 SuperPOD current reference architecture uses a 72-node scalable unit. For a 128-node project, plan capacity around two scalable units (144 nodes).
