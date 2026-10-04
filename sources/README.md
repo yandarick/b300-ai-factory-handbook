@@ -13,4 +13,8 @@
 - NVIDIA DCGM
 - NVIDIA UFM / InfiniBand documentation
 
-最后更新：2026-10-03
+## 变更记录
+
+- 2026-10-04：[DCGM 在线健康监控与维护窗口诊断](2026-10-04-dcgm.md)；补充运行时机、排空作业顺序和结果判读，正文见[运维体系](../06-operations/operations.md)。
+
+最后更新：2026-10-04
