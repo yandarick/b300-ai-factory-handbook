@@ -1,5 +1,7 @@
 # B300 AI Factory Handbook
 
+[在线阅读](https://learn.rickcn.cn/b300/)
+
 面向从零学习、设计、建设和运维 NVIDIA B300 大规模 GPU 集群的中文知识库。
 
 **当前设计基线：128 台 8-GPU B300 节点 = 1,024 GPU，并预留继续横向扩展能力。**
