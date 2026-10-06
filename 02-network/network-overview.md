@@ -20,3 +20,5 @@
 - NTP/DNS/AAA/log/config backup
 
 > 不能简单用 128×8 直接当最终 800G BOM；最终数量取决于服务器 SKU、NIC 模式、plane 和参考架构。
+
+计算示例：[128 节点的 800G 端口、物理链路与线缆口径](128-node-link-count.md)，区分服务器端点、链路两端端口、两 SU 预留和单向/双向带宽。
