@@ -12,7 +12,7 @@
 
 1. 小白入门：`00-beginner/`
 2. 128 节点总体架构：`01-architecture/`
-3. 网络架构：`02-network/`
+3. 网络架构：[网络总览](02-network/network-overview.md) · [800G 端口与链路计数](02-network/128-node-link-count.md)
 4. 存储架构：`03-storage/`
 5. 机房设计：`04-datacenter/`
 6. 软件平台：`05-software/`
