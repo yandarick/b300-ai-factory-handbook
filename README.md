@@ -17,7 +17,7 @@
 5. 机房设计：`04-datacenter/`
 6. 软件平台：`05-software/`
 7. 运维体系：[Day-2 运维与 DCGM 检查边界](06-operations/operations.md)
-8. 部署与验收：`07-deployment/`
+8. 部署与验收：[部署流程与 NCCL AllReduce 结果判读](07-deployment/deployment-and-acceptance.md)
 9. 128 节点实例：`08-design-example/`
 10. 官方资料与变更记录：`sources/`
 
