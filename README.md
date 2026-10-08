@@ -15,7 +15,7 @@
 3. 网络架构：[网络总览](02-network/network-overview.md) · [800G 端口与链路计数](02-network/128-node-link-count.md)
 4. 存储架构：`03-storage/`
 5. 机房设计：`04-datacenter/`
-6. 软件平台：`05-software/`
+6. 软件平台：[驱动、CUDA 与容器兼容性核对](05-software/software-stack.md)
 7. 运维体系：[Day-2 运维与 DCGM 检查边界](06-operations/operations.md)
 8. 部署与验收：[部署流程与 NCCL AllReduce 结果判读](07-deployment/deployment-and-acceptance.md)
 9. 128 节点实例：`08-design-example/`
