@@ -13,7 +13,7 @@
 1. 小白入门：`00-beginner/`
 2. 128 节点总体架构：`01-architecture/`
 3. 网络架构：[网络总览](02-network/network-overview.md) · [800G 端口与链路计数](02-network/128-node-link-count.md)
-4. 存储架构：`03-storage/`
+4. 存储架构：[本地 NVMe 缓存与持久检查点](03-storage/storage-architecture.md) · [按参考架构区分的吞吐指导值](03-storage/b300-storage-targets-note.md)
 5. 机房设计：`04-datacenter/`
 6. 软件平台：[驱动、CUDA 与容器兼容性核对](05-software/software-stack.md)
 7. 运维体系：[Day-2 运维与 DCGM 检查边界](06-operations/operations.md)
